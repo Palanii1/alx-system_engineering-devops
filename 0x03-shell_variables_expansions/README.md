@@ -12,3 +12,7 @@ script 10 prints the result of POWER divided by DIVIDE, followed by a new line
 script 12 prints all possible combinations of two letters, except oo
 script 13 prints a number with two decimal places, followed by a new line
 script 11* displays the result of BREATH to the power LOVE
+script 15 converts a number from base 10 to base 16
+script 16 encodes and decodes text using the rot13 encryption. Assume ASCII
+script 17 prints every other line from the input, starting with the first line
+script 18 adds the two numbers stored in the environment variables WATER and STIR and prints the result in base bestchol
